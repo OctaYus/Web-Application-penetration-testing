@@ -15,7 +15,6 @@
 ## 4. Vulnerabilities & Exploits
 - **OWASP Top 10 (2021 & 2023)**: Detailed breakdown of the top web security risks.
 - **APIs Security**: Focus on securing and testing APIs.
-- **SQL Injection & XSS**: Practical attacks on databases and cross-site scripting.
 - **Authentication & Authorization Flaws**: Testing for broken access controls.
 - **Data Exposures**: Identifying and preventing sensitive data leaks.
 
